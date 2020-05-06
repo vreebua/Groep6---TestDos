@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "P2 - Groep 6",
+"dataUrl": "Groep6 - Test2.data.unityweb",
+"wasmCodeUrl": "Groep6 - Test2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Groep6 - Test2.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
